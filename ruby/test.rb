@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+# nihao
+=======
+# hello
+>>>>>>> testing
